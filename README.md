@@ -69,7 +69,7 @@ I specialize in building intuitive user flows, scalable design systems, and resp
 ---
 
 ## 📄 Resume  
-👉 [Download Resume](#)
+👉 [[Download Resume]](https://drive.google.com/file/d/1imOMmc1sHjsmS_nR7tDdtdD6hsYZ8WJA/view?usp=sharing)(#)
 
 ---
 
