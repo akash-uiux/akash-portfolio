@@ -69,12 +69,12 @@ I specialize in building intuitive user flows, scalable design systems, and resp
 ---
 
 ## 📄 Resume  
-👉 [Download Resume](#) *(Add your resume file here or link to hosted PDF)*
+👉 [Download Resume](#)
 
 ---
 
 ## 🌐 Portfolio  
-🔗 [Your Portfolio URL]  
+🔗 https://designedbyakash.framer.website/  
 
 ## 📫 Contact  
 📧 kash2527@gmail.com  
